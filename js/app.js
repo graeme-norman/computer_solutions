@@ -14,7 +14,7 @@ app.config(['$routeProvider', function ($routeProvider) {
 	}).
 	when('/services', {
 		templateUrl: 'partials/services.html',
-		controller: 'mainCtrl'
+		controller: 'servicesCtrl'
 	}).
 	when('/contact', {
 		templateUrl: 'partials/contact.html',
@@ -26,3 +26,9 @@ app.config(['$routeProvider', function ($routeProvider) {
 app.controller('mainCtrl', ['$scope', function ($scope) {
 	console.log('This is the main ctrl');
 }]);
+
+app.controller('servicesCtrl', ['$scope', '$http', function ($scope, $http) {
+	$http.get('/data/services.json').then(function(response){
+		$scope.servicesData = response.data;
+	});
+}])

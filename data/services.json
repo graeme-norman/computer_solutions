@@ -1,0 +1,20 @@
+[
+	{
+		"id"			: 1,
+		"name"			: "Hardware Repairs",
+		"description"	: "Vestibulum non nibh quis velit malesuada posuere finibus vel neque. Suspendisse ornare erat mi, id vestibulum sem fermentum a. Vestibulum pulvinar ac ante vitae faucibus. Vivamus tincidunt vehicula massa eu luctus. Nullam accumsan, elit tincidunt imperdiet congue, leo nulla lacinia magna, sed auctor elit nisi vitae neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla rutrum ultrices nisl tempus scelerisque. Proin dictum interdum auctor. Suspendisse eu condimentum libero. Mauris elementum interdum neque non tempus.",
+		"image"			: "computer-icon.png"
+	},	
+	{
+		"id"			: 2,
+		"name"			: "Virus Removal",
+		"description"	: "Vestibulum non nibh quis velit malesuada posuere finibus vel neque. Suspendisse ornare erat mi, id vestibulum sem fermentum a. Vestibulum pulvinar ac ante vitae faucibus. Vivamus tincidunt vehicula massa eu luctus. Nullam accumsan, elit tincidunt imperdiet congue, leo nulla lacinia magna, sed auctor elit nisi vitae neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla rutrum ultrices nisl tempus scelerisque. Proin dictum interdum auctor. Suspendisse eu condimentum libero. Mauris elementum interdum neque non tempus.",
+		"image"			: "computer-icon.png"
+	},	
+	{
+		"id"			: 3,
+		"name"			: "System Tuneup",
+		"description"	: "Vestibulum non nibh quis velit malesuada posuere finibus vel neque. Suspendisse ornare erat mi, id vestibulum sem fermentum a. Vestibulum pulvinar ac ante vitae faucibus. Vivamus tincidunt vehicula massa eu luctus. Nullam accumsan, elit tincidunt imperdiet congue, leo nulla lacinia magna, sed auctor elit nisi vitae neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla rutrum ultrices nisl tempus scelerisque. Proin dictum interdum auctor. Suspendisse eu condimentum libero. Mauris elementum interdum neque non tempus.",
+		"image"			: "computer-icon.png"
+	}
+]
