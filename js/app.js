@@ -11,6 +11,14 @@ app.config(['$routeProvider', function ($routeProvider) {
 	when('/about', {
 		templateUrl: 'partials/about.html',
 		controller: 'mainCtrl'
+	}).
+	when('/services', {
+		templateUrl: 'partials/services.html',
+		controller: 'mainCtrl'
+	}).
+	when('/contact', {
+		templateUrl: 'partials/contact.html',
+		controller: 'mainCtrl'
 	})
 }]);
 
